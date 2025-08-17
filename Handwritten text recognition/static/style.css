@@ -1,0 +1,46 @@
+body{
+    background-attachment: fixed;
+    background-color: #faf0ca;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+
+}
+h1{
+    text-align: center;
+}
+button{
+    text-align: center;
+    display: flex;
+    margin:auto;
+    background-color: #f4d35e;
+}
+form{
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+     margin:auto;
+}
+input{
+    margin-left: 39%;
+     margin:auto;
+    
+
+}
+#bt{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin:auto;
+    padding: 20%;
+}
+#bts{
+    border-radius: 50px;
+    background-color: #f4d35e;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-items: center;
+
+}
